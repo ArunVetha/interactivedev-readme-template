@@ -1,4 +1,4 @@
-# Your Project's Name
+# Personal Portfolio
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
@@ -26,7 +26,7 @@ In this section, you should go over the different parts of your project, and des
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Design Refinements
 
 ## Technologies Used
 
@@ -58,8 +58,8 @@ If this section grows too long, you may want to split it off into a separate fil
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from last semester projects and google...
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from myself, I pushed me harder to complete my assignments.
